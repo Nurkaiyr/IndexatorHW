@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2017\Projects\IndexatorHW\IndexatorHW\bin\Debug\IndexatorHW.exe.config
+c:\users\1\documents\visual studio 2017\Projects\IndexatorHW\IndexatorHW\bin\Debug\IndexatorHW.exe
+c:\users\1\documents\visual studio 2017\Projects\IndexatorHW\IndexatorHW\bin\Debug\IndexatorHW.pdb
+c:\users\1\documents\visual studio 2017\Projects\IndexatorHW\IndexatorHW\obj\Debug\IndexatorHW.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\IndexatorHW\IndexatorHW\obj\Debug\IndexatorHW.exe
+c:\users\1\documents\visual studio 2017\Projects\IndexatorHW\IndexatorHW\obj\Debug\IndexatorHW.pdb
